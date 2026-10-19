@@ -1,18 +1,18 @@
-vCard - Personal Portfolio
+Kyler Narvaez - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Kyler Narvaez
+Kyler Narvaez
+Computer Science Graduate
 
 Show Contacts
 
 Email
-richard@example.com
+kyler.narvaez@gmail.com
 
 Phone
-+1 (213) 352-2795
++1 (760) 409-1055
 
 Birthday
 June 23, 1982
