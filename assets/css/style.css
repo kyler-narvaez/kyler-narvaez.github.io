@@ -1196,6 +1196,13 @@ textarea.form-input::-webkit-resizer { display: none; }
   transition: var(--transition-1);
 }
 
+.resume-download {
+  width: auto;
+  display: inline-flex;
+  margin-bottom: 30px;
+  padding: 13px 28px;
+}
+
 .form-btn::before {
   content: "";
   position: absolute;
