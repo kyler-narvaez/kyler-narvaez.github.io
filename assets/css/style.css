@@ -1886,4 +1886,29 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .timeline-text { max-width: 700px; }
 
+  ul.timeline-text {
+    padding-left: 20px;
+  }
+
+  ul.timeline-text li {
+    list-style: disc;
+    margin-bottom: 6px;
+  }
+
+  ul.timeline-text li::marker {
+    color: var(--orange-yellow-crayola);
+  }
+
+  .skills-text {
+    color: var(--light-gray);
+    font-size: var(--fs-6);
+    font-weight: var(--fw-300);
+    line-height: 1.6;
+    margin-top: 6px;
+  }
+
+  .skills-item:not(:last-child) {
+    margin-bottom: 20px;
+  }
+
 }
