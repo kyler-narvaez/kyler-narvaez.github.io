@@ -1026,6 +1026,13 @@ main {
   font-weight: var(--fw-300);
 }
 
+.project-specifications {
+  color: var(--orange-yellow-crayola);
+  font-size: var(--fs-8);
+  font-weight: var(--fw-300);
+  margin-left: 10px;
+}
+
 
 
 
